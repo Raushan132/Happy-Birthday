@@ -1,0 +1,65 @@
+/* CSS Document */
+body{
+   background-image:url(background.gif)
+
+
+}
+#m2{width:200px;             /* Purpul Ballon */
+    height:200px;
+	position:absolute;
+}
+#m3 {
+         width:200px;
+		 height:200px;        /* Gift ballon */
+		 float:right;
+  }
+#m4 {
+           float:right;  /* girl*/
+     }
+  #m5{
+        width:300px;
+		height:250px;  /*depper */
+        position:absolute; 
+  }
+  #m6{
+        width:400px;
+		height:150px; 
+		display:block;
+  }
+  #m7{
+          width:200px;
+		  height:100px;
+		  position:absolute;
+  }
+    #m8{
+          width:200px;
+		  height:100px;
+		  float:right;
+  }
+  
+.box1{
+           width:900px;
+		   height:500px;
+		   margin:auto;
+		   margin-top:100px;
+		   padding:10px 0px 10px 0px;
+		   background:-webkit-linear-gradient(left,red,blue,yellow,green);
+		   position:relative;
+		   color:#FFFFFF;
+		   border-radius:12px;
+
+}
+.box2{
+         width:800px;
+		 height:440px;
+		   margin:auto;
+		   border:2px solid balck;
+		   background-color:#000000;
+		   padding:30px 30px 30px 30px;
+		  border-radius:12px;
+		   position:relative;
+		   color:#FFFFFF;
+}
+.aud{ width:200px;
+     height:100px;
+}
